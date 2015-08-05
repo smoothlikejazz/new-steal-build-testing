@@ -1,0 +1,1 @@
+steal("myapp/test492.js","myapp/test493.js", function(){});

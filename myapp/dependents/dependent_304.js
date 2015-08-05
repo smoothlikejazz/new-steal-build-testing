@@ -1,0 +1,1 @@
+//dependent file to steal dependent_304.js

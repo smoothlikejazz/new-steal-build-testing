@@ -1,0 +1,1 @@
+steal("myapp/test364.js","myapp/test365.js", function(){});

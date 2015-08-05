@@ -1,0 +1,1 @@
+//dependent file to steal dependent_23.js

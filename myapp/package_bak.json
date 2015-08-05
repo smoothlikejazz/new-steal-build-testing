@@ -1,0 +1,19 @@
+{
+  "system": {
+    "paths": {
+      "myapp/*" : "dummy/*.js"
+    },
+    "meta": {
+      "myapp/test1": {
+        "deps": [
+          "dependents/dependent_1"
+        ]
+      },
+      "myapp/test2": {
+        "deps": [
+          "dependents/dependent_1"
+        ]
+      }
+    }
+  }
+}

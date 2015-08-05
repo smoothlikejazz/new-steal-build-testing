@@ -1,0 +1,1 @@
+steal("dummy/test167.js",function(){can.getObject("SOA.CM.Test163", window, true);SOA.CM.Test163 = can.Control.extend({init: function( element, options ) {}});});
