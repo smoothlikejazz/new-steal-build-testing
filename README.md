@@ -21,5 +21,4 @@ To run the steal build run
 
 # All in one step
 Run the default task which initates the file generator and the steal build process
-
-```grunt```
+``` grunt ```
